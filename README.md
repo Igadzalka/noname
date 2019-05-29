@@ -1,2 +1,2 @@
 # noname
-Projekt naszen grupy 
+Projekt naszeJ grupy 
